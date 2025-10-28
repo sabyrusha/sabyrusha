@@ -6,7 +6,7 @@ Currently honing my skills in **React** and **TypeScript**, working on real proj
 
 I’m eager to join a product team where I can contribute, learn from experienced developers, and grow as an engineer.
 
-# <img src="./assets/gifs/Gears.gif" height="30"/> Tech Stack
+## <img src="./assets/gifs/Gears.gif" height="22"/> Tech Stack
 
 [![SkillIcons](https://skillicons.dev/icons?i=html,css,scss)](https://skillicons.dev)&nbsp;&nbsp;<img src="./assets/icons/bem.svg" width="48" alt="BEM" />&nbsp;
 [![SkillIcons](https://skillicons.dev/icons?i=js,ts,react)](https://skillicons.dev) <img src="./assets/icons/fsd.png" width="128" alt="FSD" />
