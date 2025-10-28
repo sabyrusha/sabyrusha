@@ -1,10 +1,12 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on a responsive Kropp Fitness website using HTML & CSS, with a focus on accessibility and performance.
-- 🌱 I’m currently learning React and TypeScript by building practice projects and exploring component-driven development.
-- 👯 I’m looking to collaborate on front-end projects that involve responsive design and modern web practices.
-- 🤔 I’m looking for help with improving code architecture and learning how to scale front-end applications.
-- 💬 Ask me about responsive web design, semantic HTML, and clean CSS architecture.
-- 📫 How to reach me: [Telegram @sabyrusha](https://t.me/sabyrusha) or [email me](mailto:sabyrusha@gmail.com)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I never start coding without music in the background.
+I'm a **Frontend Developer** passionate about creating clean, responsive, and user-friendly interfaces. <br />
+
+Currently honing my skills in **React** and **TypeScript**, working on real projects and writing structured, maintainable code. <br />
+
+I’m eager to join a product team where I can contribute, learn from experienced developers, and grow as an engineer.
+
+## Tech Stack
+
+[![SkillIcons](https://skillicons.dev/icons?i=html,css,scss,js,ts,react,tailwind,vite)](https://skillicons.dev)
+<img src="./fsd.svg" width="48" alt="FSD" />
