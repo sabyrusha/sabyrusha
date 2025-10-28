@@ -21,23 +21,27 @@ I’m eager to join a product team where I can contribute, learn from experience
   <tbody>
     <tr>
       <td>
-        [![SkillIcons](https://skillicons.dev/icons?i=html,css,scss)](https://skillicons.dev)&nbsp;&nbsp;
+        <img src="./assets/icons/core/HTML.svg" width="48" />
+        <img src="./assets/icons/core/CSS.svg" width="48" />
+        <img src="./assets/icons/core/Sass.svg" width="48" />
+      </td>
+      <td>
+        <img src="./assets/icons/languages/JavaScript.svg" width="48" />
+        <img src="./assets/icons/languages/TypeScript.svg" width="48" />
+      </td>
+      <td>
+        <img src="./assets/icons/frameworks/React-Dark.svg" width="48" />
+        <img src="./assets/icons/frameworks/TailwindCSS-Dark.svg" width="48" />
+      </td>
+      <td>
+        <img src="./assets/icons/architecture/bem.svg" width="48" />
+        <img src="./assets/icons/architecture/fsd.png" width="124" />
+      </td>
+      <td>
+        <img src="./assets/icons/tools/Git.svg" width="48" />
+        <img src="./assets/icons/tools/Vite-Dark.svg" width="48" />
+        <img src="./assets/icons/tools/Vercel-Dark.svg" width="48" />
       </td>
     </tr>
   </tbody>
 </table>
-
-### Core: 
-[![SkillIcons](https://skillicons.dev/icons?i=html,css,scss)](https://skillicons.dev)&nbsp;&nbsp;
-
-### Languages:
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
-
-### Frameworks:
-[![SkillIcons](https://skillicons.dev/icons?i=react,tailwind)](https://skillicons.dev)
-
-### Architecture:
-<img src="./assets/icons/bem.svg" width="48" alt="BEM" />&nbsp;<img src="./assets/icons/fsd.png" width="128" alt="FSD" />
-
-### Tools:
-[![SkillIcons](https://skillicons.dev/icons?i=git,vite,vercel)](https://skillicons.dev)
