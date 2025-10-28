@@ -8,6 +8,6 @@ I’m eager to join a product team where I can contribute, learn from experience
 
 ## Tech Stack
 
-[![SkillIcons](https://skillicons.dev/icons?i=html,css,scss)](https://skillicons.dev) <img src="./bem.svg" width="48" alt="BEM" />
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,react)](https://skillicons.dev)<img src="./fsd.png" width="128" alt="FSD" />
+[![SkillIcons](https://skillicons.dev/icons?i=html,css,scss)](https://skillicons.dev)&nbsp;&nbsp;<img src="./bem.svg" width="48" alt="BEM" />&nbsp;
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,react)](https://skillicons.dev) <img src="./fsd.png" width="128" alt="FSD" />
 [![SkillIcons](https://skillicons.dev/icons?i=tailwind,vite)](https://skillicons.dev)
