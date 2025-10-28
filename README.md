@@ -1,8 +1,8 @@
-## Hi there 👋
+# <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30"/> Hi, I'm Sabyrzhan
 
-I'm a **Frontend Developer** passionate about creating clean, responsive, and user-friendly interfaces. <br />
+I'm a **Frontend Developer** passionate about creating clean, responsive, and user-friendly interfaces.
 
-Currently honing my skills in **React** and **TypeScript**, working on real projects and writing structured, maintainable code. <br />
+Currently honing my skills in **React** and **TypeScript**, working on real projects and writing structured, maintainable code.
 
 I’m eager to join a product team where I can contribute, learn from experienced developers, and grow as an engineer.
 
