@@ -11,7 +11,7 @@ I’m eager to join a product team where I can contribute, learn from experience
 <table>
   <thead>
     <tr>
-      <th>Core</th>
+      <th>Markup & Styling</th>
       <th>Languages</th>
       <th>Frameworks</th>
       <th>Architecture</th>
